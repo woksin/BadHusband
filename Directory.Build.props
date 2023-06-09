@@ -1,0 +1,9 @@
+<Project>
+    <PropertyGroup>
+        <RepositoryUrl>https://github.com/woksin/BadHusband</RepositoryUrl>
+        <TargetFramework>net7.0</TargetFramework>
+        <LangVersion>latest</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+    </PropertyGroup>
+</Project>

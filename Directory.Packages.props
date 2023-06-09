@@ -1,0 +1,10 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Dolittle.SDK" Version="21.0.1" />
+    <PackageVersion Include="Dolittle.SDK.Extensions.AspNet" Version="21.0.1" />
+    <PackageVersion Include="Microsoft.NET.Build.Containers" Version="7.0.302" />
+  </ItemGroup>
+</Project>
